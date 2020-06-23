@@ -8,7 +8,7 @@ namespace Lab4_4ArraysLoopsIfsImprovedSpamChecker
         {
             Console.WriteLine("Hello World from Lab4_4ArrayLoopsIfsImprovedSpamChecker");
 
-            // Now that we’ve learned about arrays, lists, and loops, 
+            // Now that we’ve learned about arrays, lists, and loops,
             // we can improve the Spam Checker from lesson 3.  In this 
             // lab, we want to write an improved version of the Spam Check 
             // that checks a list of words from the blacklist , and uses a 
