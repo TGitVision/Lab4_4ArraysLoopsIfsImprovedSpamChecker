@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_4ArraysLoopsIfsImprovedSpamChecker", "Lab4_4ArraysLoopsIfsImprovedSpamChecker.csproj", "{A56F2E87-01CF-4009-829B-307DA803E00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56F2E87-01CF-4009-829B-307DA803E00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56F2E87-01CF-4009-829B-307DA803E00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56F2E87-01CF-4009-829B-307DA803E00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56F2E87-01CF-4009-829B-307DA803E00A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845C4824-7B7D-47F0-8047-C611ACA0E634}
+	EndGlobalSection
+EndGlobal
